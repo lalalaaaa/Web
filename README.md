@@ -1,2 +1,3 @@
-# Web
-Try to create a blog
+# Simple chatbot py
+
+A demo run with a api key.
