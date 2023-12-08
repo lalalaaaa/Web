@@ -1,3 +1,3 @@
 # Simple chatbot py
 
-A demo run with a api key.
+A asistant api demo run with a api key.
